@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+    <browser>chrome</browser>
+    <url>C:\pythonProject\selenuimPythonDigital\Class_Ex\Class10\data.xml</url>
+    <Weight>100</Weight>
+    <Height>187</Height>
+</configuration>
